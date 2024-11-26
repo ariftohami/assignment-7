@@ -1,0 +1,10 @@
+.input::placeholder{
+color:black;
+border:0px;
+}
+
+.link:hover{
+color:blueviolet;
+text-decoration: underline;
+
+}
